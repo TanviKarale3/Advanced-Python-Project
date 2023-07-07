@@ -35,7 +35,7 @@ Maharshtra India
 
 ## 🛠 Links
 
-(https://www.linkedin.com/in/tanvi-karale-1009a9251)
+* [LinkIdIn](https://www.linkedin.com/in/tanvi-karale-1009a9251)
 
 
 ## 🛠 Skills
