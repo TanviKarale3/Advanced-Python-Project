@@ -33,6 +33,8 @@ Maharshtra India
 
 4. [Speed Typing Test](https://github.com/TanviKarale3/Advanced-Python-Project/commit/0f6bd4cb6fa334a2b68e0ec718c4f12ca26e6607)
 
+5. [Calculator using HTML,CSS,Javascript](https://github.com/TanviKarale3/Making-Calculator)
+
 ## 🛠 Links
 
 * [LinkIdIn](https://www.linkedin.com/in/tanvi-karale-1009a9251)
